@@ -1,0 +1,16 @@
+[17-May-2024 09:53:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php on line 69
+[28-Jun-2024 08:21:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php on line 69
+[04-Jul-2024 13:50:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php on line 69
+[04-Jul-2024 15:26:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-content/plugins/hello.php on line 69

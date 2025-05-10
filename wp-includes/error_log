@@ -1,0 +1,9 @@
+[05-Nov-2024 03:10:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/class.wp-styles.php on line 18
+[05-Nov-2024 03:10:04 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/wp-diff.php on line 13
+[05-Nov-2024 03:10:04 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/wp-diff.php on line 13
+[05-Nov-2024 03:10:04 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/wp-diff.php on line 13
+[05-Nov-2024 03:10:04 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/wp-diff.php on line 13
+[05-Nov-2024 03:10:04 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/roger209/public_html/oreidoscatalogos.com.br/wp-includes/wp-diff.php on line 13
